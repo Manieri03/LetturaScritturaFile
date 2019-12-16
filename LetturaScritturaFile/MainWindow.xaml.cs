@@ -79,6 +79,11 @@ namespace LetturaScritturaFile
             sw.Close();
 
         }
-        
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            lblrisultato.Content = "";
+
+        }
     }
 }

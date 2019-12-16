@@ -35,6 +35,7 @@
         <Label Content="Inserisci qui un numero positivo" HorizontalAlignment="Left" Height="30" Margin="290,125,0,0" VerticalAlignment="Top" Width="205" FontFamily="Segoe Print"/>
         <Label x:Name="lblrisultato" Content="" HorizontalAlignment="Left" Height="70" Margin="75,350,0,0" VerticalAlignment="Top" Width="650"/>
         <Label Content="Risultato:" HorizontalAlignment="Left" Height="30" Margin="360,320,0,0" VerticalAlignment="Top" Width="75" FontFamily="Segoe Print" FontSize="14"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Height="25" Margin="370,275,0,0" VerticalAlignment="Top" Width="55" Background="#FFDFFFD8" FontFamily="segoe print" Click="Button_Click_1"/>
 
     </Grid>
 </Window>
